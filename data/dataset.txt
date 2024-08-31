@@ -1,0 +1,9 @@
+npy    3   NBA  BGP  Electronics
+npz    7   roman_empire tolokers amazon_ratings questions chameleon_f squirrel_f cora_full
+mat    1   Penn94
+other  9   download by pyg
+
+npy, npz, mat download url:
+baidu:  链接：https://pan.baidu.com/s/1qqKcJXJkC4Y_N7LerXMcuQ  提取码：j1dx
+kuake:  链接：https://pan.quark.cn/s/df5c1d8dd2a8 提取码：SBTM
+google driver: https://drive.google.com/drive/folders/1RyDaUW37GucirswG-7kQQ2Wqj9rjyHOp?usp=sharing
