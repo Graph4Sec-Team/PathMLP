@@ -1,7 +1,7 @@
 # PathMLP: Smooth Path Towards High-order Homophily
 We propose a lightweight model based on multi-layer perceptrons (MLP), named PathMLP, which can encode messages carried by paths via simple transformation and concatenation operations, and effectively learn node representations in heterophilous graphs through adaptive path aggregation.
 
-Paper：https://www.sciencedirect.com/science/article/pii/S0893608024005744
+Paper：[PathMLP: Smooth path towards high-order homophily](https://www.sciencedirect.com/science/article/pii/S0893608024005744)
 
 ## 1 Model and Result
 
