@@ -7,18 +7,18 @@ Paper：https://www.sciencedirect.com/science/article/pii/S0893608024005744
 
 ![](./images/model.png)
 
-![](images/nomal group.png)
+![](images/nomal_group.png)
 
-![](./images/anomy group.png)
+![](images/anomy_group.png)
 
 ## 2 Environment
 
-torch                                     2.1.1+cu118
-torch-cluster                      1.6.3+pt21cu118
-torch-geometric                2.4.0
-torch-scatter                      2.1.2+pt21cu118
-torch-sparse                       0.6.18+pt21cu118
-torch-spline-conv             1.2.2+pt21cu118
+* torch                                     2.1.1+cu118
+* torch-cluster                      1.6.3+pt21cu118
+* torch-geometric                2.4.0
+* torch-scatter                      2.1.2+pt21cu118
+* torch-sparse                       0.6.18+pt21cu118
+* torch-spline-conv             1.2.2+pt21cu118
 
 ## 3 Dataset
 
