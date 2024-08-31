@@ -55,11 +55,11 @@ For most datasets, we use random splitting (48% / 32% / 20% for training / valid
 * utils.py  --  utils
 
 ### 4.2 Code Execution 
-、、、
+```shell
 python main.py --model "PathMLP" --dataset "cora" --beta 0.5 --depth 4 --path_num 10
 
 python main.py --model "PathMLP+" --dataset "cora" --beta 0.5 --degree 2 --depth 4 --path_num 10
-、、、
+```
 
 
 ### 4.3 Hyper-parameter Space
