@@ -3,7 +3,7 @@ We propose a lightweight model based on multi-layer perceptrons (MLP), named Pat
 
 Paper：[PathMLP: Smooth path towards high-order homophily](https://www.sciencedirect.com/science/article/pii/S0893608024005744)
 
-## 1 Model and Result
+## 1 Overview of Model Architecture and Performance
 
 ![](./images/model.png)
 
@@ -43,9 +43,9 @@ For most datasets, we use random splitting (48% / 32% / 20% for training / valid
 - Amazon-ratings
 - BGP
 
-## 4 Run the codes
+## 4 Code Description
 
-### 4.1 Project File Structure
+### 4.1 File Structure
 
 * data  -- put data in this dir
 * model -- PathMLP
@@ -54,7 +54,7 @@ For most datasets, we use random splitting (48% / 32% / 20% for training / valid
 * sampler.py  -- topk sampler
 * utils.py  --  utils
 
-### 4.2 Basic 
+### 4.2 Code Execution 
 
 `python main.py --model "PathMLP" --dataset "cora" --beta 0.5 --depth 4 --path_num 10`
 
